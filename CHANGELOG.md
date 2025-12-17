@@ -103,3 +103,4 @@ main.py (13 lines)
 ---
 
 **Note**: Version 2.0.0 represents a major architectural improvement while maintaining all original features and functionality.
+Contributor: Fellycia Khoo
