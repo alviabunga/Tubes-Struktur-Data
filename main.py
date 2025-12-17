@@ -1,3 +1,5 @@
+# Contributor: Fellycia Khoo
+
 """
 Music Player Application
 Main entry point for the music player application.
